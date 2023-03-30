@@ -1,0 +1,59 @@
+.part1{
+    width: 365px;
+    height: 100%;
+    background-color: skyblue;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.part2{
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    height: 100%;
+    width: 1075px;
+    background-color: lightblue;
+}
+.pic1 img{
+   border-radius: 50%;
+   height: ;
+   width: 45%;
+   position: relative;
+   right: 235px;
+   top: 140px;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    height: 0px;
+    width: 35%;
+    position: relative;
+    left: 50%;
+    bottom: 30cqmax;
+    font-size: 120%;
+    padding: 5px;
+}
+.links :hover, .links :active{
+    font-size: 150%;
+}
+.title{
+    position: relative;
+    font-size: 60px;
+    margin-left: 760px;
+    margin-top: 240px;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+.words{
+    position: absolute;
+    margin-left: 720px;
+    margin-top: -60px;
+    letter-spacing: 5px;
+    font-size: 30px;
+}
+#head1{
+    background: white;
+    background-size: cover;
+    height: 25%;
+    width: 25%;
+}
