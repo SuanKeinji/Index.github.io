@@ -105,6 +105,17 @@ nav ul li a:hover{
     letter-spacing: 1px;
     text-align: justify;
 }
+.source{
+    position: absolute;
+    top: 130%;
+    left: 30%;
+}
+.source a{
+    font-size: 1.2rem;
+}
+.source a:hover{
+    color: green;
+}
 /* CAREER */
 .main{
     background: rgb(93, 97, 93);
@@ -161,6 +172,17 @@ nav ul li a:hover{
     top: 118%;
     box-shadow: 2px 2px 13px 2px rgb(15, 13, 13);
  }
+ .source2{
+    position: absolute;
+    top: 155%;
+    left: 25%;
+}
+.source2 a{
+    font-size: 1.2rem;
+}
+.source2 a:hover{
+    color: green;
+}
 /* PERSONAL LIFE */
 .main1{
     background: rgb(93, 97, 93);
@@ -237,6 +259,17 @@ nav ul li a:hover{
     left: 1%;
     top: 335%;
 }
+.source5{
+    position: absolute;
+    top: 349%;
+    left: 25%;
+}
+.source5 a{
+    font-size: 1.2rem;
+}
+.source5 a:hover{
+    color: green;
+}
 /* FACTS */
 .main2{
     background: rgb(93, 97, 93);
@@ -287,6 +320,17 @@ nav ul li a:hover{
     justify-content: justify;
     font-weight: bolder;
     font-size: 130%;
+}
+.source3{
+    position: absolute;
+    top: 442%;
+    left: 45%;
+}
+.source3 a{
+    font-size: 1.2rem;
+}
+.source3 a:hover{
+    color: green;
 }
 /* DEATH */
 .main3{
@@ -339,12 +383,23 @@ nav ul li a:hover{
     font-size: 24px;
     justify-content: justify;
 }
+.source4{
+    position: absolute;
+    top: 535%;
+    left: 20%;
+}
+.source4 a{
+    font-size: 1.2rem;
+}
+.source4 a:hover{
+    color: green;
+}
 /* FOOTER */
 footer{
     line-break: 25px;
     text-align: center;
     color: black;
-    background: rgb(93, 97, 93);
+    background: gray;
     border-top: black;
     width: 100.2%;
     margin: -0.2%;
